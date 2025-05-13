@@ -92,6 +92,7 @@ TypeScriptTechnocart/
 |------|------------------|
 | [`1.4.ts`](../ModuleOne/src/1.4.ts) | Basic Types: `string`, `number`, `boolean`, `null`, `undefined`, `any`, arrays, tuples |
 | [`1.5.ts`](../ModuleOne/src/1.5.ts) | Object types, optional fields, `readonly`, literal types |
+<<<<<<< HEAD
 | [`1.6.ts`](./ModuleOne/src/1.6.ts) | Functions, default params, arrow functions, methods, callback functions |
 | [`1.7.ts`](./ModuleOne/src/1.7.ts) | Spread operator, Rest params, Destructuring (object & array) |
 | [`1.8.ts`](./ModuleOne/src/1.8.ts) | Deep object and array destructuring |
@@ -99,6 +100,15 @@ TypeScriptTechnocart/
 | [`1.10.ts`](./ModuleOne/src/1.10.ts) | Union & Intersection Types |
 | [`1.11.ts`](./ModuleOne/src/1.11.ts) | Ternary Operator, Nullish Coalescing (`??`), Optional Chaining |
 | [`1.12.ts`](./ModuleOne/src/1.12.ts) | Nullable values, `unknown` type, `never` type, error throwing |
+=======
+| [`1.6.ts`](../ModuleOne/src/1.6.ts) | Functions, default params, arrow functions, methods, callback functions |
+| [`1.7.ts`](../ModuleOne/src/1.7.ts) | Spread operator, Rest params, Destructuring (object & array) |
+| [`1.8.ts`](../ModuleOne/src/1.8.ts) | Deep object and array destructuring |
+| [`1.9.ts`](../ModuleOne/src/1.9.ts) | Type Aliases (`type`), function aliases, name alias |
+| [`1.10.ts`](../ModuleOne/src/1.10.ts) | Union & Intersection Types |
+| [`1.11.ts`](../ModuleOne/src/1.11.ts) | Ternary Operator, Nullish Coalescing (`??`), Optional Chaining |
+| [`1.12.ts`](../ModuleOne/src/1.12.ts) | Nullable values, `unknown` type, `never` type, error throwing |
+>>>>>>> d69ff49014569f763c770bf7224a8c23f2c8b661
 
 ---
 
